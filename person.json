@@ -283,7 +283,7 @@
       "applicationCategory": "UtilitiesApplication",
       "operatingSystem": "iOS, macOS",
       "appStoreId": "6816358368",
-      "appStoreIdConfirmed": false,
+      "appStoreIdConfirmed": true,
       "status": "in App Store review",
       "tagline": {
         "en": "Move big videos to your Mac",
@@ -302,7 +302,7 @@
       "applicationCategory": "SocialNetworkingApplication",
       "operatingSystem": "iOS",
       "appStoreId": "6788174943",
-      "appStoreIdConfirmed": false,
+      "appStoreIdConfirmed": true,
       "status": "in App Store review",
       "tagline": {
         "en": "AOA in your pocket, with an App Clip for NFC taps",
