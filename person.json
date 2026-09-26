@@ -48,6 +48,7 @@
       "name": "SMART business",
       "url": "https://www.smart-it.com/",
       "github": "https://github.com/smartitcom",
+      "wikidata": "https://www.wikidata.org/wiki/Q141565969",
       "role": {
         "en": "Web Development Team Lead",
         "uk": "Тімлід веброзробки"
@@ -205,6 +206,7 @@
       "shortName": "whatsmyera.com",
       "url": "https://whatsmyera.com/",
       "authorPage": "https://whatsmyera.com/about",
+      "wikidata": "https://www.wikidata.org/wiki/Q141565865",
       "schemaType": "WebApplication",
       "applicationCategory": "EntertainmentApplication",
       "tagline": {
@@ -222,6 +224,7 @@
       "name": "wherethefuckismy.money",
       "url": "https://wherethefuckismy.money/",
       "authorPage": "https://wherethefuckismy.money/about",
+      "wikidata": "https://www.wikidata.org/wiki/Q141565869",
       "schemaType": "WebApplication",
       "applicationCategory": "FinanceApplication",
       "tagline": {
@@ -238,6 +241,7 @@
       "key": "claude-commit",
       "name": "Claude Commit",
       "url": "https://marketplace.visualstudio.com/items?itemName=ZakhariiMelnyk.claude-git-commit",
+      "wikidata": "https://www.wikidata.org/wiki/Q141565942",
       "repo": "https://github.com/uaoa/claude-commit-vscode",
       "schemaType": "SoftwareApplication",
       "applicationCategory": "DeveloperApplication",

@@ -161,7 +161,7 @@ function schemaFor(p) {
     author: { '@id': P.hub.id },
     applicationCategory: p.applicationCategory,
     ...(p.operatingSystem && { operatingSystem: p.operatingSystem }),
-    ...(p.repo && { sameAs: [p.repo] }),
+    ...((p.wikidata || p.repo) && { sameAs: [p.wikidata, p.repo].filter(Boolean) }),
     ...(p.license && { license: p.license }),
     ...(p.launchPost && {
       subjectOf: { '@type': 'SocialMediaPosting', url: p.launchPost, author: { '@id': P.hub.id } },
@@ -244,7 +244,7 @@ function jsonLd(t) {
       '@id': `${HUB}/#smart-business`,
       name: smart.name,
       url: smart.url,
-      sameAs: [smart.github],
+      sameAs: [smart.wikidata, smart.github].filter(Boolean),
     },
     ...P.projects.map(schemaFor),
   ];
