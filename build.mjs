@@ -153,7 +153,7 @@ function schemaFor(p) {
       founder: { '@id': P.hub.id },
       foundingDate: '2025',
       slogan: M.mission.en,
-      sameAs: [p.wikidata],
+      sameAs: [p.wikidata, p.wellfound].filter(Boolean),
     };
   }
   if (p.schemaType === 'SoftwareSourceCode') {

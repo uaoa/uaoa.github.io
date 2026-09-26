@@ -210,7 +210,8 @@
       "description": {
         "en": "Ukrainian platform on a mission to get people out more. AOA gives people reasons to leave home and meet in person: find a place, see an event, know who is already nearby, come and meet. It is built around the moment two people actually meet, not around time spent in the app.",
         "uk": "Українська платформа, мета якої спонукати людей частіше виходити на вулицю. AOA дає приводи вийти з дому й зустрітися наживо: знайти місце, побачити подію, зрозуміти, хто вже поруч, прийти й познайомитися. Продукт побудований навколо моменту, коли люди справді зустрілися, а не навколо часу в застосунку."
-      }
+      },
+      "wellfound": "https://wellfound.com/company/aoa-4"
     },
     {
       "key": "whatsmyera",
