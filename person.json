@@ -18,7 +18,19 @@
       "en": "Melnyk",
       "uk": "Мельник"
     },
-    "handle": "undef.zakhar"
+    "handle": "undef.zakhar",
+    "short": {
+      "en": "Zakhar Melnyk",
+      "uk": "Захар Мельник"
+    },
+    "variants": [
+      "Zakhar Melnyk",
+      "Захар Мельник",
+      "Zakhar Melnik",
+      "Zakharii Melnik",
+      "Zakhariy Melnyk"
+    ],
+    "$comment": "Захар це коротка форма імені Захарій, і люди шукають саме «Zakhar Melnyk». Коротку форму показуємо видимо (title, рядок під імʼям, FAQ), а не лише в alternateName."
   },
   "image": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Zakharii_Melnyk.jpg",

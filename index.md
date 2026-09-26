@@ -1,6 +1,6 @@
 # Zakharii Melnyk
 
-> Zakharii Melnyk (Ukrainian: Захарій Мельник) is a Ukrainian full-stack engineer from Kyiv. Founder of AOA, on a mission to get people out more, and Web Development Team Lead at SMART business.
+> Zakharii Melnyk (also Zakhar Melnyk; Ukrainian: Захарій Мельник) is a Ukrainian full-stack engineer from Kyiv. Founder of AOA, on a mission to get people out more, and Web Development Team Lead at SMART business.
 
 Builds products end to end: product design, web front end, back end, infrastructure and native iOS apps. Other projects include whatsmyera.com, which shows what happened during your lifetime, wherethefuckismy.money, a real purchasing power calculator for Ukraine, and Claude Commit, a VS Code extension with more than 4,000 installs.
 
@@ -26,6 +26,7 @@ Getting out makes us happier.
 ## Quick facts
 
 - **Name:** Zakharii Melnyk
+- **Also known as:** Zakhar Melnyk, Захар Мельник, undef.zakhar
 - **Native name:** Захарій Мельник (Захарій Володимирович Мельник)
 - **Based in:** Kyiv, Ukraine
 - **Occupation:** Full-stack engineer
@@ -115,6 +116,10 @@ Never miss the last train. Telegram bot for the Kyiv metro: travel time between 
 ### Who is Zakharii Melnyk?
 
 Zakharii Melnyk (Захарій Мельник) is a Ukrainian full-stack engineer from Kyiv, founder of AOA and Web Development Team Lead at SMART business.
+
+### Is Zakhar Melnyk the same person as Zakharii Melnyk?
+
+Yes. Zakhar is the short form of the name Zakharii. Zakhar Melnyk, Zakharii Melnyk and Захарій Мельник (Захар Мельник) are the same person: the founder of AOA from Kyiv.
 
 ### What is AOA?
 
