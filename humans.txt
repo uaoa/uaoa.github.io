@@ -1,0 +1,7 @@
+/* PERSON */
+Name: Zakharii Melnyk (Захарій Мельник)
+Role: Founder of AOA, Web Development Team Lead at SMART business
+Location: Kyiv, Ukraine
+Site: https://uaoa.github.io/
+GitHub: https://github.com/uaoa
+Telegram: https://t.me/undefZakhar

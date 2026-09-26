@@ -1,0 +1,441 @@
+{
+  "$comment": "Канон особи Zakharii Melnyk. Єдине джерело правди для всіх сайтів, пакетів і Wikidata. Змінюєш тут, потім дзеркалиш у репо зі списку mirrors. Адреса хабу може змінитись на власний домен: тоді міняється hub.url і hub.id скрізь.",
+  "hub": {
+    "url": "https://uaoa.github.io/",
+    "id": "https://uaoa.github.io/#person",
+    "urlUk": "https://uaoa.github.io/uk/"
+  },
+  "aoaAuthorPage": "https://aoa.com.ua/zakharii-melnyk",
+  "name": {
+    "en": "Zakharii Melnyk",
+    "uk": "Захарій Мельник",
+    "ukFull": "Захарій Володимирович Мельник",
+    "givenName": {
+      "en": "Zakharii",
+      "uk": "Захарій"
+    },
+    "familyName": {
+      "en": "Melnyk",
+      "uk": "Мельник"
+    },
+    "handle": "undef.zakhar"
+  },
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Zakharii_Melnyk.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Zakharii_Melnyk.jpg"
+  },
+  "jobTitle": {
+    "en": "Founder of AOA · Web Development Team Lead at SMART business",
+    "uk": "Засновник AOA · тімлід веброзробки в SMART business"
+  },
+  "description": {
+    "en": "Ukrainian full-stack engineer from Kyiv. Founder of AOA, a platform that connects people in person at venues and events, and Web Development Team Lead at SMART business. Builds web products, iOS apps and developer tools.",
+    "uk": "Український full-stack розробник із Києва. Засновник AOA, платформи, що зʼєднує людей наживо в закладах і на подіях, і тімлід веброзробки в SMART business. Створює вебпродукти, iOS-застосунки та інструменти для розробників."
+  },
+  "worksFor": [
+    {
+      "name": "AOA",
+      "url": "https://aoa.com.ua/",
+      "id": "https://aoa.com.ua/#organization",
+      "wikidata": "https://www.wikidata.org/wiki/Q139560460",
+      "role": {
+        "en": "Founder",
+        "uk": "Засновник"
+      },
+      "startDate": "2025"
+    },
+    {
+      "name": "SMART business",
+      "url": "https://www.smart-it.com/",
+      "github": "https://github.com/smartitcom",
+      "role": {
+        "en": "Web Development Team Lead",
+        "uk": "Тімлід веброзробки"
+      }
+    }
+  ],
+  "homeLocation": {
+    "en": "Kyiv, Ukraine",
+    "uk": "Київ, Україна"
+  },
+  "nationality": "Ukraine",
+  "knowsLanguage": [
+    "uk",
+    "en"
+  ],
+  "knowsAbout": [
+    "Full-stack web development",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "PostgreSQL",
+    "Swift",
+    "iOS development",
+    "Product design",
+    "AI developer tools",
+    "Search engine optimization"
+  ],
+  "wikidata": "https://www.wikidata.org/wiki/Q139560462",
+  "sameAs": [
+    "https://www.wikidata.org/wiki/Q139560462",
+    "https://www.linkedin.com/in/undef-zakhar/",
+    "https://github.com/uaoa",
+    "https://www.youtube.com/@undefzakhar",
+    "https://www.instagram.com/undef.zakhar/",
+    "https://www.threads.com/@undef.zakhar",
+    "https://www.facebook.com/undef.zakhar",
+    "https://t.me/undefZakhar",
+    "https://dou.ua/users/zakhar-melnyk-1/",
+    "https://www.crunchbase.com/person/zakharii-melnyk",
+    "https://www.producthunt.com/@zakharii_melnyk",
+    "https://www.npmjs.com/~zakharii",
+    "https://pypi.org/user/uaoa/",
+    "https://marketplace.visualstudio.com/publishers/ZakhariiMelnyk",
+    "https://aoa.com.ua/zakharii-melnyk"
+  ],
+  "profiles": [
+    {
+      "key": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/undef-zakhar/",
+      "social": true
+    },
+    {
+      "key": "github",
+      "label": "GitHub",
+      "url": "https://github.com/uaoa",
+      "social": true
+    },
+    {
+      "key": "youtube",
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@undefzakhar",
+      "social": true,
+      "channelId": "UC5vtFZk_dECZ3VGIMlPz0Sg"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "url": "https://www.instagram.com/undef.zakhar/",
+      "social": true
+    },
+    {
+      "key": "threads",
+      "label": "Threads",
+      "url": "https://www.threads.com/@undef.zakhar",
+      "social": true
+    },
+    {
+      "key": "facebook",
+      "label": "Facebook",
+      "url": "https://www.facebook.com/undef.zakhar",
+      "social": true
+    },
+    {
+      "key": "telegram",
+      "label": "Telegram",
+      "url": "https://t.me/undefZakhar",
+      "social": true
+    },
+    {
+      "key": "producthunt",
+      "label": "Product Hunt",
+      "url": "https://www.producthunt.com/@zakharii_melnyk",
+      "social": true
+    },
+    {
+      "key": "dou",
+      "label": "DOU",
+      "url": "https://dou.ua/users/zakhar-melnyk-1/",
+      "social": false
+    },
+    {
+      "key": "crunchbase",
+      "label": "Crunchbase",
+      "url": "https://www.crunchbase.com/person/zakharii-melnyk",
+      "social": false
+    },
+    {
+      "key": "npm",
+      "label": "npm",
+      "url": "https://www.npmjs.com/~zakharii",
+      "social": false
+    },
+    {
+      "key": "pypi",
+      "label": "PyPI",
+      "url": "https://pypi.org/user/uaoa/",
+      "social": false
+    },
+    {
+      "key": "vscode",
+      "label": "VS Code Marketplace",
+      "url": "https://marketplace.visualstudio.com/publishers/ZakhariiMelnyk",
+      "social": false
+    },
+    {
+      "key": "wikidata",
+      "label": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q139560462",
+      "social": false
+    }
+  ],
+  "projects": [
+    {
+      "key": "aoa",
+      "name": "AOA",
+      "url": "https://aoa.com.ua/",
+      "id": "https://aoa.com.ua/#organization",
+      "schemaType": "Organization",
+      "role": "founder",
+      "wikidata": "https://www.wikidata.org/wiki/Q139560460",
+      "tagline": {
+        "en": "Brings venues and events to life",
+        "uk": "Оживляє простори й події"
+      },
+      "description": {
+        "en": "Ukrainian platform that connects people in person at coffee shops, bookstores, coworking spaces, bars and events, and gives venues ticketing, check-in, guest CRM, table reservations and newsletters.",
+        "uk": "Українська платформа, що зʼєднує людей наживо в кавʼярнях, книгарнях, коворкінгах, барах і на подіях, а закладам дає квитки, check-in, CRM гостей, бронювання столиків і розсилки."
+      }
+    },
+    {
+      "key": "whatsmyera",
+      "name": "Твоя епоха (whatsmyera.com)",
+      "shortName": "whatsmyera.com",
+      "url": "https://whatsmyera.com/",
+      "authorPage": "https://whatsmyera.com/about",
+      "schemaType": "WebApplication",
+      "applicationCategory": "EntertainmentApplication",
+      "tagline": {
+        "en": "What happened during your lifetime",
+        "uk": "Скільки подій відбулося за твоє життя"
+      },
+      "description": {
+        "en": "Enter your birth year and see your generation, the eras of your childhood and hundreds of facts about what happened during your life, tied to Ukrainian realities. Free, no sign-up, runs in the browser.",
+        "uk": "Вводиш рік народження і бачиш своє покоління, епохи дитинства й сотні фактів про те, що сталося за твоє життя, з прив'язкою до українських реалій. Безкоштовно, без реєстрації, усе в браузері."
+      },
+      "launchPost": "https://www.linkedin.com/posts/undef-zakhar_%D1%82%D0%B2%D0%BE%D1%8F-%D0%B5%D0%BF%D0%BE%D1%85%D0%B0-%D1%81%D0%BA%D1%96%D0%BB%D1%8C%D0%BA%D0%B8-%D0%BF%D0%BE%D0%B4%D1%96%D0%B9-%D0%B2%D1%96%D0%B4%D0%B1%D1%83%D0%BB%D0%BE%D1%81%D1%8F-%D0%B7%D0%B0-%D1%82%D0%B2%D0%BE%D1%94-share-7484562253078298624-qA7-/"
+    },
+    {
+      "key": "money",
+      "name": "wherethefuckismy.money",
+      "url": "https://wherethefuckismy.money/",
+      "authorPage": "https://wherethefuckismy.money/about",
+      "schemaType": "WebApplication",
+      "applicationCategory": "FinanceApplication",
+      "tagline": {
+        "en": "Your salary grew. So where is the money?",
+        "uk": "Зарплата виросла. А гроші де?"
+      },
+      "description": {
+        "en": "Real purchasing power calculator for incomes in Ukraine, 2010 to 2026: compares income between years adjusted for inflation, exchange rate and actual prices of housing, food, fuel and tech.",
+        "uk": "Калькулятор реальної купівельної спроможності доходів в Україні за 2010–2026 роки: порівнює дохід між роками з поправкою на інфляцію, курс і реальні ціни на житло, продукти, пальне й техніку."
+      },
+      "launchPost": "https://www.linkedin.com/posts/undef-zakhar_where-the-fuck-is-my-money-share-7482124760949305344-H7Y6/"
+    },
+    {
+      "key": "claude-commit",
+      "name": "Claude Commit",
+      "url": "https://marketplace.visualstudio.com/items?itemName=ZakhariiMelnyk.claude-git-commit",
+      "repo": "https://github.com/uaoa/claude-commit-vscode",
+      "schemaType": "SoftwareApplication",
+      "applicationCategory": "DeveloperApplication",
+      "operatingSystem": "Windows, macOS, Linux",
+      "license": "https://opensource.org/licenses/MIT",
+      "stats": {
+        "installs": 4332,
+        "rating": 5.0,
+        "asOf": "2026-09-26"
+      },
+      "tagline": {
+        "en": "Commit messages in one click",
+        "uk": "Commit-повідомлення одним кліком"
+      },
+      "description": {
+        "en": "VS Code extension that generates git commit messages with Claude, using the Claude CLI you already have or the API. Conventional commits, custom templates, several languages. Open source, MIT.",
+        "uk": "Розширення для VS Code, що генерує commit-повідомлення через Claude: через наявний Claude CLI або API. Conventional commits, власні шаблони, кілька мов. Відкритий код, MIT."
+      }
+    },
+    {
+      "key": "aoa-sdk",
+      "name": "aoa-sdk",
+      "url": "https://pypi.org/project/aoa-sdk/",
+      "npm": "https://www.npmjs.com/package/@aoa-ua/sdk",
+      "docs": "https://aoa.com.ua/docs",
+      "repo": "https://github.com/aoa-ua/aoa-agent-kit",
+      "schemaType": "SoftwareSourceCode",
+      "programmingLanguage": "Python",
+      "tagline": {
+        "en": "Official SDK for the AOA public API",
+        "uk": "Офіційний SDK для публічного API AOA"
+      },
+      "description": {
+        "en": "Python SDK (and TypeScript as @aoa-ua/sdk) for the AOA public API: venues, table bookings, events, tickets, checkout and webhooks.",
+        "uk": "Python SDK (і TypeScript як @aoa-ua/sdk) для публічного API AOA: заклади, бронювання столиків, події, квитки, оплата й вебхуки."
+      }
+    },
+    {
+      "key": "storageanalytics",
+      "name": "StorageAnalytics",
+      "url": "https://uaoa.github.io/storageanalytics/",
+      "schemaType": "MobileApplication",
+      "applicationCategory": "UtilitiesApplication",
+      "operatingSystem": "iOS, macOS",
+      "appStoreId": "6816358368",
+      "appStoreIdConfirmed": false,
+      "status": "in App Store review",
+      "tagline": {
+        "en": "Move big videos to your Mac",
+        "uk": "Великі відео на Mac"
+      },
+      "description": {
+        "en": "iPhone app with a free Mac companion: finds the photos and videos that take the most space, copies them to your Mac over a cable with SHA-256 verification, then frees up space. No account, no cloud.",
+        "uk": "Застосунок для iPhone з безкоштовним компаньйоном для Mac: знаходить фото й відео, що займають найбільше місця, копіює їх на Mac кабелем із перевіркою SHA-256 і звільняє памʼять. Без акаунта й хмари."
+      }
+    },
+    {
+      "key": "aoa-ios",
+      "name": "AOA for iOS",
+      "url": "https://aoa.com.ua/",
+      "schemaType": "MobileApplication",
+      "applicationCategory": "SocialNetworkingApplication",
+      "operatingSystem": "iOS",
+      "appStoreId": "6788174943",
+      "appStoreIdConfirmed": false,
+      "status": "in App Store review",
+      "tagline": {
+        "en": "AOA in your pocket, with an App Clip for NFC taps",
+        "uk": "AOA в кишені, з App Clip для NFC-міток"
+      },
+      "description": {
+        "en": "Native iOS app for AOA with an App Clip that opens a venue room from an NFC tap.",
+        "uk": "Нативний iOS-застосунок AOA з App Clip, що відкриває кімнату закладу з NFC-мітки."
+      }
+    },
+    {
+      "key": "metro-bot",
+      "name": "Kyiv metro bot",
+      "nameUk": "Графік метро з нагадуваннями",
+      "url": "https://t.me/aoa_web_bot",
+      "schemaType": "SoftwareApplication",
+      "applicationCategory": "TravelApplication",
+      "operatingSystem": "Telegram",
+      "tagline": {
+        "en": "Never miss the last train",
+        "uk": "Щоб не запізнитись на останній поїзд"
+      },
+      "description": {
+        "en": "Telegram bot for the Kyiv metro: travel time between stations and when to leave to catch the last train, with reminders.",
+        "uk": "Телеграм-бот для київського метро: скільки їхати між станціями і коли вийти, щоб встигнути на останній поїзд, з нагадуваннями."
+      }
+    }
+  ],
+  "openSource": [
+    {
+      "name": "GitHub Streaks",
+      "url": "https://github.com/uaoa/github-streaks",
+      "repo": "https://github.com/uaoa/github-streaks",
+      "description": {
+        "en": "Minimalist macOS menu bar app that shows your GitHub contribution streak.",
+        "uk": "Мінімалістичний застосунок у рядку меню macOS зі стріком внесків на GitHub."
+      }
+    },
+    {
+      "name": "claude-commit (CLI)",
+      "url": "https://www.npmjs.com/package/claude-commit",
+      "repo": "https://github.com/uaoa/claude-commit",
+      "description": {
+        "en": "Command-line version of Claude Commit, on npm.",
+        "uk": "Консольна версія Claude Commit, на npm."
+      }
+    },
+    {
+      "name": "Reporting",
+      "url": "https://github.com/uaoa/reporting",
+      "repo": "https://github.com/uaoa/reporting",
+      "description": {
+        "en": "Chrome extension that collects your daily commits from GitHub and Azure DevOps for reports.",
+        "uk": "Розширення Chrome, що збирає твої коміти за день із GitHub і Azure DevOps для звітів."
+      }
+    },
+    {
+      "name": "Telegram Chat Export",
+      "url": "https://uaoa.github.io/telegram-export/",
+      "repo": "https://github.com/uaoa/telegram-export",
+      "description": {
+        "en": "Export Telegram chats in the browser via the official API, with instant search.",
+        "uk": "Експорт чатів Telegram у браузері через офіційний API, з миттєвим пошуком."
+      }
+    }
+  ],
+  "mirrors": [
+    "AOA: src/utils/jsonLd.tsx (FOUNDER_BASE), сторінка /zakharii-melnyk, public/llms.txt",
+    "beta (whatsmyera.com): src/components/author/author.ts, scripts/seo.ts, public/llms.txt",
+    "fuckonomics (wherethefuckismy.money): src/features/author/author.ts, index.html JSON-LD, public/llms.txt",
+    "claude-commit-vscode: package.json author/homepage, README «Author»",
+    "claude-commit: package.json author, README",
+    "AOA/agent-kit/sdk/python: pyproject.toml authors/maintainers",
+    "storageanalytics: _config.yml, README.md, JSON-LD",
+    "IOS_STORAGE_Analytics/docs/app-store/metadata.md: Marketing/Support URL, Copyright",
+    "Wikidata Q139560462 (вручну, див. AOA/docs/PERSONAL_BRAND_ENTITY.md)"
+  ],
+  "disambiguation": {
+    "en": "Ukrainian full-stack engineer from Kyiv, founder of AOA (aoa.com.ua) and Web Development Team Lead at SMART business.",
+    "uk": "Український full-stack розробник із Києва, засновник AOA (aoa.com.ua) і тімлід веброзробки в SMART business."
+  },
+  "titles": {
+    "$comment": "Посада збирається з трьох незмінних блоків: роль в AOA, посада в SMART business, фах. Порядок завжди такий. Роздільник у заголовках ' · '.",
+    "blocks": {
+      "founder": {
+        "en": "Founder of AOA",
+        "uk": "засновник AOA"
+      },
+      "teamLead": {
+        "en": "Web Development Team Lead at SMART business",
+        "uk": "тімлід веброзробки в SMART business"
+      },
+      "teamLeadNoEmployer": {
+        "en": "Web Development Team Lead",
+        "uk": "тімлід веброзробки"
+      },
+      "identity": {
+        "en": "full-stack engineer",
+        "uk": "full-stack розробник"
+      }
+    },
+    "short": {
+      "en": "Founder of AOA · Full-stack engineer",
+      "uk": "Засновник AOA · full-stack розробник"
+    },
+    "headline": {
+      "en": "Founder of AOA · Web Development Team Lead at SMART business",
+      "uk": "Засновник AOA · тімлід веброзробки в SMART business"
+    },
+    "schemaJobTitle": {
+      "en": [
+        "Founder of AOA",
+        "Web Development Team Lead"
+      ],
+      "uk": [
+        "Засновник AOA",
+        "Тімлід веброзробки"
+      ]
+    },
+    "wikidataDescription": {
+      "en": "Ukrainian full-stack engineer, founder of AOA",
+      "uk": "український full-stack розробник, засновник AOA"
+    },
+    "avoid": [
+      "Full-Stack Web Development Team Lead",
+      "тімлід Full-Stack веброзробки",
+      "Founder & Product Lead",
+      "Founder в AOA",
+      "CEO",
+      "Full-Stack Developer",
+      "software engineer",
+      "програміст",
+      "засновник та Full-Stack розробник AOA"
+    ]
+  }
+}

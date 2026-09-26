@@ -1,0 +1,110 @@
+# Захарій Мельник
+
+> Захарій Мельник (Zakharii Melnyk): український full-stack розробник із Києва. Засновник AOA, платформи, що зʼєднує людей наживо в кавʼярнях, книгарнях, коворкінгах, барах і на подіях, і тімлід веброзробки в SMART business.
+
+Робить продукти від початку до кінця: дизайн, фронтенд, бекенд, інфраструктура й нативні iOS-застосунки. Інші проєкти: whatsmyera.com («Твоя епоха»: що сталося за твоє життя), wherethefuckismy.money (калькулятор реальної купівельної спроможності в Україні) і Claude Commit, розширення для VS Code з понад 4000 встановлень.
+
+## Коротко
+
+- **Імʼя:** Захарій Мельник (Захарій Володимирович Мельник)
+- **Латиницею:** Zakharii Melnyk
+- **Місто:** Київ, Україна
+- **Фах:** Full-stack розробник
+- **Засновник:** AOA, з 2025 року
+- **Робота:** SMART business, тімлід веброзробки
+- **Мови:** українська, англійська
+- **Головні проєкти:** AOA, whatsmyera.com, wherethefuckismy.money, Claude Commit
+- **Wikidata:** Q139560462
+
+## Проєкти
+
+### AOA
+
+Оживляє простори й події. Українська платформа, що зʼєднує людей наживо в кавʼярнях, книгарнях, коворкінгах, барах і на подіях, а закладам дає квитки, check-in, CRM гостей, бронювання столиків і розсилки.
+
+[Сайт](https://aoa.com.ua/)
+
+### Твоя епоха (whatsmyera.com)
+
+Скільки подій відбулося за твоє життя. Вводиш рік народження і бачиш своє покоління, епохи дитинства й сотні фактів про те, що сталося за твоє життя, з прив'язкою до українських реалій. Безкоштовно, без реєстрації, усе в браузері.
+
+[Сайт](https://whatsmyera.com/) · [Пост про запуск у LinkedIn](https://www.linkedin.com/posts/undef-zakhar_%D1%82%D0%B2%D0%BE%D1%8F-%D0%B5%D0%BF%D0%BE%D1%85%D0%B0-%D1%81%D0%BA%D1%96%D0%BB%D1%8C%D0%BA%D0%B8-%D0%BF%D0%BE%D0%B4%D1%96%D0%B9-%D0%B2%D1%96%D0%B4%D0%B1%D1%83%D0%BB%D0%BE%D1%81%D1%8F-%D0%B7%D0%B0-%D1%82%D0%B2%D0%BE%D1%94-share-7484562253078298624-qA7-/)
+
+### wherethefuckismy.money
+
+Зарплата виросла. А гроші де?. Калькулятор реальної купівельної спроможності доходів в Україні за 2010–2026 роки: порівнює дохід між роками з поправкою на інфляцію, курс і реальні ціни на житло, продукти, пальне й техніку.
+
+[Сайт](https://wherethefuckismy.money/) · [Пост про запуск у LinkedIn](https://www.linkedin.com/posts/undef-zakhar_where-the-fuck-is-my-money-share-7482124760949305344-H7Y6/)
+
+### Claude Commit
+
+Commit-повідомлення одним кліком. Розширення для VS Code, що генерує commit-повідомлення через Claude: через наявний Claude CLI або API. Conventional commits, власні шаблони, кілька мов. Відкритий код, MIT.
+
+[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ZakhariiMelnyk.claude-git-commit) · [Код](https://github.com/uaoa/claude-commit-vscode)
+
+### aoa-sdk
+
+Офіційний SDK для публічного API AOA. Python SDK (і TypeScript як @aoa-ua/sdk) для публічного API AOA: заклади, бронювання столиків, події, квитки, оплата й вебхуки.
+
+[PyPI](https://pypi.org/project/aoa-sdk/) · [npm](https://www.npmjs.com/package/@aoa-ua/sdk) · [Документація](https://aoa.com.ua/docs) · [Код](https://github.com/aoa-ua/aoa-agent-kit)
+
+### StorageAnalytics (Скоро в App Store)
+
+Великі відео на Mac. Застосунок для iPhone з безкоштовним компаньйоном для Mac: знаходить фото й відео, що займають найбільше місця, копіює їх на Mac кабелем із перевіркою SHA-256 і звільняє памʼять. Без акаунта й хмари.
+
+[Сайт](https://uaoa.github.io/storageanalytics/)
+
+### AOA for iOS (Скоро в App Store)
+
+AOA в кишені, з App Clip для NFC-міток. Нативний iOS-застосунок AOA з App Clip, що відкриває кімнату закладу з NFC-мітки.
+
+[Сайт](https://aoa.com.ua/)
+
+### Графік метро з нагадуваннями
+
+Щоб не запізнитись на останній поїзд. Телеграм-бот для київського метро: скільки їхати між станціями і коли вийти, щоб встигнути на останній поїзд, з нагадуваннями.
+
+[Сайт](https://t.me/aoa_web_bot)
+
+## Відкритий код
+
+- [GitHub Streaks](https://github.com/uaoa/github-streaks): Мінімалістичний застосунок у рядку меню macOS зі стріком внесків на GitHub.
+- [claude-commit (CLI)](https://www.npmjs.com/package/claude-commit): Консольна версія Claude Commit, на npm.
+- [Reporting](https://github.com/uaoa/reporting): Розширення Chrome, що збирає твої коміти за день із GitHub і Azure DevOps для звітів.
+- [Telegram Chat Export](https://uaoa.github.io/telegram-export/): Експорт чатів Telegram у браузері через офіційний API, з миттєвим пошуком.
+
+## Профілі
+
+- [LinkedIn](https://www.linkedin.com/in/undef-zakhar/)
+- [GitHub](https://github.com/uaoa)
+- [YouTube](https://www.youtube.com/@undefzakhar)
+- [Instagram](https://www.instagram.com/undef.zakhar/)
+- [Threads](https://www.threads.com/@undef.zakhar)
+- [Facebook](https://www.facebook.com/undef.zakhar)
+- [Telegram](https://t.me/undefZakhar)
+- [Product Hunt](https://www.producthunt.com/@zakharii_melnyk)
+- [DOU](https://dou.ua/users/zakhar-melnyk-1/)
+- [Crunchbase](https://www.crunchbase.com/person/zakharii-melnyk)
+- [npm](https://www.npmjs.com/~zakharii)
+- [PyPI](https://pypi.org/user/uaoa/)
+- [VS Code Marketplace](https://marketplace.visualstudio.com/publishers/ZakhariiMelnyk)
+- [Wikidata](https://www.wikidata.org/wiki/Q139560462)
+- [Сторінка на AOA](https://aoa.com.ua/zakharii-melnyk)
+
+## Запитання
+
+### Хто такий Захарій Мельник?
+
+Захарій Мельник (Zakharii Melnyk): український full-stack розробник із Києва, засновник AOA і тімлід веброзробки в SMART business.
+
+### Що таке AOA?
+
+Українська платформа, що зʼєднує людей наживо в кавʼярнях, книгарнях, коворкінгах, барах і на подіях, а закладам дає квитки, check-in, CRM гостей, бронювання столиків і розсилки. Сайт: aoa.com.ua.
+
+### Як звʼязатися із Захарієм Мельником?
+
+Написати в Telegram або LinkedIn.
+
+---
+
+Оновлено: 2026-09-26. HTML: https://uaoa.github.io/uk/
