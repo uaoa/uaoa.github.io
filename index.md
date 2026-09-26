@@ -105,6 +105,7 @@ Never miss the last train. Telegram bot for the Kyiv metro: travel time between 
 - [Product Hunt](https://www.producthunt.com/@zakharii_melnyk)
 - [DOU](https://dou.ua/users/zakhar-melnyk-1/)
 - [Crunchbase](https://www.crunchbase.com/person/zakharii-melnyk)
+- [Wellfound](https://wellfound.com/u/zakharii-melnyk)
 - [npm](https://www.npmjs.com/~zakharii)
 - [PyPI](https://pypi.org/user/uaoa/)
 - [VS Code Marketplace](https://marketplace.visualstudio.com/publishers/ZakhariiMelnyk)

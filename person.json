@@ -101,6 +101,7 @@
     "https://t.me/undefZakhar",
     "https://dou.ua/users/zakhar-melnyk-1/",
     "https://www.crunchbase.com/person/zakharii-melnyk",
+    "https://wellfound.com/u/zakharii-melnyk",
     "https://www.producthunt.com/@zakharii_melnyk",
     "https://www.npmjs.com/~zakharii",
     "https://pypi.org/user/uaoa/",
@@ -167,6 +168,12 @@
       "key": "crunchbase",
       "label": "Crunchbase",
       "url": "https://www.crunchbase.com/person/zakharii-melnyk",
+      "social": false
+    },
+    {
+      "key": "wellfound",
+      "label": "Wellfound",
+      "url": "https://wellfound.com/u/zakharii-melnyk",
       "social": false
     },
     {
