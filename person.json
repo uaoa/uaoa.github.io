@@ -29,8 +29,8 @@
     "uk": "Засновник AOA · тімлід веброзробки в SMART business"
   },
   "description": {
-    "en": "Ukrainian full-stack engineer from Kyiv. Founder of AOA, a platform that connects people in person at venues and events, and Web Development Team Lead at SMART business. Builds web products, iOS apps and developer tools.",
-    "uk": "Український full-stack розробник із Києва. Засновник AOA, платформи, що зʼєднує людей наживо в закладах і на подіях, і тімлід веброзробки в SMART business. Створює вебпродукти, iOS-застосунки та інструменти для розробників."
+    "en": "Ukrainian full-stack engineer from Kyiv. Founder of AOA, on a mission to get people out more, and Web Development Team Lead at SMART business. Builds web products, iOS apps and developer tools.",
+    "uk": "Український full-stack розробник із Києва. Засновник AOA, мета якої спонукати людей частіше виходити на вулицю, і тімлід веброзробки в SMART business. Створює вебпродукти, iOS-застосунки та інструменти для розробників."
   },
   "worksFor": [
     {
@@ -191,12 +191,12 @@
       "role": "founder",
       "wikidata": "https://www.wikidata.org/wiki/Q139560460",
       "tagline": {
-        "en": "Brings venues and events to life",
-        "uk": "Оживляє простори й події"
+        "en": "On a mission to get people out more",
+        "uk": "Щоб люди частіше виходили на вулицю"
       },
       "description": {
-        "en": "Ukrainian platform that connects people in person at coffee shops, bookstores, coworking spaces, bars and events, and gives venues ticketing, check-in, guest CRM, table reservations and newsletters.",
-        "uk": "Українська платформа, що зʼєднує людей наживо в кавʼярнях, книгарнях, коворкінгах, барах і на подіях, а закладам дає квитки, check-in, CRM гостей, бронювання столиків і розсилки."
+        "en": "Ukrainian platform on a mission to get people out more. AOA gives people reasons to leave home and meet in person: find a place, see an event, know who is already nearby, come and meet. It is built around the moment two people actually meet, not around time spent in the app.",
+        "uk": "Українська платформа, мета якої спонукати людей частіше виходити на вулицю. AOA дає приводи вийти з дому й зустрітися наживо: знайти місце, побачити подію, зрозуміти, хто вже поруч, прийти й познайомитися. Продукт побудований навколо моменту, коли люди справді зустрілися, а не навколо часу в застосунку."
       }
     },
     {
@@ -437,5 +437,66 @@
       "програміст",
       "засновник та Full-Stack розробник AOA"
     ]
+  },
+  "aoaMission": {
+    "$comment": "Як засновник говорить про AOA від себе. Акцент на місії, а не на функціях продукту.",
+    "mission": {
+      "en": "We're on a mission to get people out more",
+      "uk": "Наша мета: спонукати людей частіше виходити на вулицю"
+    },
+    "belief": {
+      "en": "Getting out makes us happier",
+      "uk": "Вихід на вулицю робить нас щасливішими"
+    },
+    "culture": {
+      "en": [
+        "support for people",
+        "personal responsibility",
+        "strong execution",
+        "absolute focus on the user"
+      ],
+      "uk": [
+        "підтримки людей",
+        "особистої відповідальності",
+        "сильної реалізації",
+        "абсолютного фокусу на користувачі"
+      ]
+    },
+    "why": {
+      "en": "Life gets better when we leave home, find ourselves among people and live something together. People rarely lack the wish to go somewhere; they lack a reason. AOA creates those reasons: find a place, see an event, know who is already nearby, come, meet someone, stay a little longer than planned.",
+      "uk": "Життя стає кращим, коли ми виходимо з дому, опиняємося серед людей і проживаємо щось разом. Людям рідко бракує бажання кудись піти, їм бракує приводу. AOA створює такі приводи: знайти місце, побачити подію, зрозуміти, хто вже поруч, прийти, познайомитися й залишитися трохи довше, ніж планував."
+    },
+    "principles": {
+      "en": [
+        "People matter more than screens: a good scenario ends when someone puts the phone down and talks to the person next to them.",
+        "Real connections matter more than the number of contacts: one conversation in person can be worth more than a hundred swipes.",
+        "AOA does not meet people for you. It makes the signal clearer, the moment safer and the first step a little easier.",
+        "Places should bring people together: not just places people come to, but places where people meet."
+      ],
+      "uk": [
+        "Люди важливіші за екран: хороший сценарій закінчується тим, що людина відкладає телефон і говорить із кимось поруч.",
+        "Реальні звʼязки важливіші за кількість контактів: одна розмова наживо може бути ціннішою за сотню свайпів.",
+        "AOA не знайомиться замість людини. Він робить сигнал зрозумілішим, момент безпечнішим, а перший крок трохи легшим.",
+        "Місця мають обʼєднувати людей: бути не просто місцями, куди приходять, а місцями, де люди зустрічаються."
+      ]
+    },
+    "test": {
+      "en": "Before every new feature we ask one question: will this help a person leave home, be among people or make real contact easier? If not, we probably don't need it.",
+      "uk": "Перед кожною новою функцією ми ставимо одне питання: це допоможе людині вийти з дому, опинитися серед людей або зробити реальний контакт простішим? Якщо ні, можливо, нам це не потрібно."
+    },
+    "beliefs": {
+      "en": [
+        "Getting out of the house is good for you.",
+        "Being among people matters.",
+        "Meeting in person is worth it.",
+        "Technology should help this happen more often."
+      ],
+      "uk": [
+        "Виходити з дому корисно.",
+        "Бути серед людей важливо.",
+        "Знайомитися наживо варто.",
+        "Технології мають допомагати цьому відбуватися частіше."
+      ]
+    }
   }
 }

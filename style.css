@@ -70,3 +70,8 @@ footer p { margin: 4px 0; }
   .facts { grid-template-columns: 180px 1fr; }
   .facts dt { margin-top: 0; }
 }
+.mission { border: 1px solid var(--line); border-radius: 16px; padding: 4px 16px 12px; margin-top: 32px; }
+.mission h2 { margin-top: 20px; }
+.mission h3 { margin-top: 20px; }
+.mission-lead { font-size: 20px; font-weight: 600; line-height: 1.35; letter-spacing: -0.01em; }
+.beliefs { font-weight: 500; }

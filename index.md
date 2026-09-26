@@ -1,8 +1,27 @@
 # Zakharii Melnyk
 
-> Zakharii Melnyk (Ukrainian: Захарій Мельник) is a Ukrainian full-stack engineer from Kyiv. Founder of AOA, a platform that connects people in person at coffee shops, bookstores, coworking spaces, bars and events, and Web Development Team Lead at SMART business.
+> Zakharii Melnyk (Ukrainian: Захарій Мельник) is a Ukrainian full-stack engineer from Kyiv. Founder of AOA, on a mission to get people out more, and Web Development Team Lead at SMART business.
 
 Builds products end to end: product design, web front end, back end, infrastructure and native iOS apps. Other projects include whatsmyera.com, which shows what happened during your lifetime, wherethefuckismy.money, a real purchasing power calculator for Ukraine, and Claude Commit, a VS Code extension with more than 4,000 installs.
+
+## Why AOA
+
+> We're on a mission to get people out more
+
+Life gets better when we leave home, find ourselves among people and live something together. People rarely lack the wish to go somewhere; they lack a reason. AOA creates those reasons: find a place, see an event, know who is already nearby, come, meet someone, stay a little longer than planned.
+
+- People matter more than screens: a good scenario ends when someone puts the phone down and talks to the person next to them.
+- Real connections matter more than the number of contacts: one conversation in person can be worth more than a hundred swipes.
+- AOA does not meet people for you. It makes the signal clearer, the moment safer and the first step a little easier.
+- Places should bring people together: not just places people come to, but places where people meet.
+
+Before every new feature we ask one question: will this help a person leave home, be among people or make real contact easier? If not, we probably don't need it.
+
+**Culture:** support for people + personal responsibility + strong execution + absolute focus on the user.
+
+**What we believe:** Getting out of the house is good for you. Being among people matters. Meeting in person is worth it. Technology should help this happen more often.
+
+Getting out makes us happier.
 
 ## Quick facts
 
@@ -20,7 +39,7 @@ Builds products end to end: product design, web front end, back end, infrastruct
 
 ### AOA
 
-Brings venues and events to life. Ukrainian platform that connects people in person at coffee shops, bookstores, coworking spaces, bars and events, and gives venues ticketing, check-in, guest CRM, table reservations and newsletters.
+On a mission to get people out more. Ukrainian platform on a mission to get people out more. AOA gives people reasons to leave home and meet in person: find a place, see an event, know who is already nearby, come and meet. It is built around the moment two people actually meet, not around time spent in the app.
 
 [Website](https://aoa.com.ua/)
 
@@ -99,7 +118,11 @@ Zakharii Melnyk (Захарій Мельник) is a Ukrainian full-stack engine
 
 ### What is AOA?
 
-Ukrainian platform that connects people in person at coffee shops, bookstores, coworking spaces, bars and events, and gives venues ticketing, check-in, guest CRM, table reservations and newsletters. Website: aoa.com.ua.
+Ukrainian platform on a mission to get people out more. AOA gives people reasons to leave home and meet in person: find a place, see an event, know who is already nearby, come and meet. It is built around the moment two people actually meet, not around time spent in the app. Website: aoa.com.ua.
+
+### What is the mission of AOA?
+
+We're on a mission to get people out more. Getting out makes us happier.
 
 ### How can I contact Zakharii Melnyk?
 
